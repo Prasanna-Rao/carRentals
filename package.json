@@ -1,0 +1,21 @@
+{
+  "name": "adigyogi-car-rentals",
+  "private": true,
+  "version": "6.0.0",
+  "type": "module",
+  "description": "Adigyogi Car Rentals V6: cinematic temple-destination React site with nine destinations, six vehicles, direct WhatsApp and multi-temple enquiry planner",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^5.4.18",
+    "typescript": "^5.6.3"
+  }
+}
